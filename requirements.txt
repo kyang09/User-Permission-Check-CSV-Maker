@@ -1,0 +1,3 @@
+google-api-python-client>=1.6.4
+virtualenv==15.1.0
+wheel==0.29.0
